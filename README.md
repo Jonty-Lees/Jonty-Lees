@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jonty-Lees
-- 👀 I’m interested in music
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software, music and cooking. I love to create
+- 🌱 I’m currently researching more on Python, Data-Visualisation, React.js front end skills
 - 📫 How to reach me lees.jonty@gmail.com
 
 <!---
