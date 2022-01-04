@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonty-Lees
 - 👀 I’m interested in software, music and cooking. I love to create
-- 🌱 I’m currently researching more on Python, Data-Visualisation, React.js front end skills
+- 🌱 I’m currently researching more on Python, Data-Visualisation and React.js front end skills
 - 📫 How to reach me lees.jonty@gmail.com
 
 <!---
